@@ -13,3 +13,6 @@ Bernhard Preim, Department of Simulation and Graphics, University of Magdeburg, 
 
 Monique Meuschke, Department of Simulation and Graphics, University of Magdeburg and Institute of Computer Science, University of Jena, Germany, meuschke@isg.cs.uni-magdeburg.de
 
+Submission link: https://atrayeeneog.github.io/VAST-Challenge-2020-MC1/.
+Supplement video link: https://youtu.be/unTamN8LeDU
+
